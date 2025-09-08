@@ -1,0 +1,6 @@
+//program 2
+public class HelloWorld{
+    public static void main(String arg[]){
+        System.out.println("My First Java program!");
+    }
+}
